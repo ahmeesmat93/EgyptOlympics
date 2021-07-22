@@ -1,0 +1,430 @@
+{
+	"ProductCollection": [
+
+		{
+			"ProductId": " رجال / سيدات / مختلط",
+			"Category": "Laptops",
+			"MainCategory": "Computer Systems",
+			"TaxTarifCode": "1",
+			"SupplierName": "Very Best Screens",
+			"WeightMeasure": 4.2,
+			"WeightUnit": "KG",
+			"Description": "القوس والسهم",
+			"Name": "رماية",
+			"DateOfSale": "2017-03-26",
+			"ProductPicUrl": "https://olympics.com/tokyo-2020/olympic-games/resOG2020-/img/sports/ARC.png",
+			"Status": "Available"
+		}	,
+		{
+			"ProductId": "رجال",
+			"Category": "Laptops",
+			"MainCategory": "Computer Systems",
+			"TaxTarifCode": "1",
+			"SupplierName": "Very Best Screens",
+			"WeightMeasure": 4.2,
+			"WeightUnit": "KG",
+			"Description": "منافسات كرة القدم ضمن المجموعة الثالثة",
+			"Name": "كرة قدم",
+			"DateOfSale": "2017-03-26",
+			"ProductPicUrl": "https://olympics.com/tokyo-2020/olympic-games/resOG2020-/img/sports/FBL.png",
+			"Status": "Available"
+		},
+		{
+			"ProductId": " رجال / سيدات / مختلط",
+			"Category": "Laptops",
+			"MainCategory": "Computer Systems",
+			"TaxTarifCode": "1",
+			"SupplierName": "Very Best Screens",
+			"WeightMeasure": 4.2,
+			"WeightUnit": "KG",
+			"Description": "الجمباز الفني",
+			"Name": "الجمباز الفني",
+			"DateOfSale": "2017-03-26",
+			"ProductPicUrl": "https://olympics.com/tokyo-2020/olympic-games/resOG2020-/img/sports/GAR.png",
+			"Status": "Available"
+		}	,
+		{
+			"ProductId": "سيدات",
+			"Category": "Laptops",
+			"MainCategory": "Computer Systems",
+			"TaxTarifCode": "1",
+			"SupplierName": "Very Best Screens",
+			"WeightMeasure": 4.2,
+			"WeightUnit": "KG",
+			"Description": "السباحة الايقاعية",
+			"Name": "السباحة الايقاعية",
+			"DateOfSale": "2017-03-26",
+			"ProductPicUrl": "https://olympics.com/tokyo-2020/olympic-games/resOG2020-/img/sports/SWA.png",
+			"Status": "Available"
+		}	,
+		{
+			"ProductId": "رجال / سيدات",
+			"Category": "Laptops",
+			"MainCategory": "Computer Systems",
+			"TaxTarifCode": "1",
+			"SupplierName": "Very Best Screens",
+			"WeightMeasure": 4.2,
+			"WeightUnit": "KG",
+			"Description": "ألعاب القوى",
+			"Name": "ألعاب القوى",
+			"DateOfSale": "2017-03-26",
+			"ProductPicUrl": "https://olympics.com/tokyo-2020/olympic-games/resOG2020-/img/sports/ATH.png",
+			"Status": "Available"
+		}	,
+		{
+			"ProductId": " سيدات / مختلط",
+			"Category": "Laptops",
+			"MainCategory": "Computer Systems",
+			"TaxTarifCode": "1",
+			"SupplierName": "Very Best Screens",
+			"WeightMeasure": 4.2,
+			"WeightUnit": "KG",
+			"Description": "كرة الريشة الطائرة",
+			"Name": "كرة الريشة الطائرة",
+			"DateOfSale": "2017-03-26",
+			"ProductPicUrl": "https://olympics.com/tokyo-2020/olympic-games/resOG2020-/img/sports/BDM.png",
+			"Status": "Available"
+		}	,
+		{
+			"ProductId": "رجال",
+			"Category": "Laptops",
+			"MainCategory": "Computer Systems",
+			"TaxTarifCode": "1",
+			"SupplierName": "Very Best Screens",
+			"WeightMeasure": 4.2,
+			"WeightUnit": "KG",
+			"Description": "ملاكمة",
+			"Name": "ملاكمة",
+			"DateOfSale": "2017-03-26",
+			"ProductPicUrl": "https://olympics.com/tokyo-2020/olympic-games/resOG2020-/img/sports/BOX.png",
+			"Status": "Available"
+		}	,
+		{
+			"ProductId": "رجال /  سيدات",
+			"Category": "Laptops",
+			"MainCategory": "Computer Systems",
+			"TaxTarifCode": "1",
+			"SupplierName": "Very Best Screens",
+			"WeightMeasure": 4.2,
+			"WeightUnit": "KG",
+			"Description": "سباق القوارب",
+			"Name": "سباق القوارب",
+			"DateOfSale": "2017-03-26",
+			"ProductPicUrl": "https://olympics.com/tokyo-2020/olympic-games/resOG2020-/img/sports/CSP.png",
+			"Status": "Available"
+		},
+		{
+			"ProductId": "سيدات",
+			"Category": "Laptops",
+			"MainCategory": "Computer Systems",
+			"TaxTarifCode": "1",
+			"SupplierName": "Very Best Screens",
+			"WeightMeasure": 4.2,
+			"WeightUnit": "KG",
+			"Description": "ركوب الدراجات",
+			"Name": "ركوب الدراجات",
+			"DateOfSale": "2017-03-26",
+			"ProductPicUrl": "https://olympics.com/tokyo-2020/olympic-games/resOG2020-/img/sports/CTR.png",
+			"Status": "Available"
+		},
+		{
+			"ProductId": "رجال /  سيدات",
+			"Category": "Laptops",
+			"MainCategory": "Computer Systems",
+			"TaxTarifCode": "1",
+			"SupplierName": "Very Best Screens",
+			"WeightMeasure": 4.2,
+			"WeightUnit": "KG",
+			"Description": "غطس",
+			"Name": "غطس",
+			"DateOfSale": "2017-03-26",
+			"ProductPicUrl": "https://olympics.com/tokyo-2020/olympic-games/resOG2020-/img/sports/DIV.png",
+			"Status": "Available"
+		},
+		{
+			"ProductId": "رجال",
+			"Category": "Laptops",
+			"MainCategory": "Computer Systems",
+			"TaxTarifCode": "1",
+			"SupplierName": "Very Best Screens",
+			"WeightMeasure": 4.2,
+			"WeightUnit": "KG",
+			"Description": "ركوب الخيل",
+			"Name": "فروسية",
+			"DateOfSale": "2017-03-26",
+			"ProductPicUrl": "https://olympics.com/tokyo-2020/olympic-games/resOG2020-/img/sports/EQU.png",
+			"Status": "Available"
+		},
+		{
+			"ProductId": "رجال /  سيدات",
+			"Category": "Laptops",
+			"MainCategory": "Computer Systems",
+			"TaxTarifCode": "1",
+			"SupplierName": "Very Best Screens",
+			"WeightMeasure": 4.2,
+			"WeightUnit": "KG",
+			"Description": "المبارزة",
+			"Name": "مبارزة السلاح",
+			"DateOfSale": "2017-03-26",
+			"ProductPicUrl": "https://olympics.com/tokyo-2020/olympic-games/resOG2020-/img/sports/FEN.png",
+			"Status": "Available"
+		},
+		{
+			"ProductId": "رجال",
+			"Category": "Laptops",
+			"MainCategory": "Computer Systems",
+			"TaxTarifCode": "1",
+			"SupplierName": "Very Best Screens",
+			"WeightMeasure": 4.2,
+			"WeightUnit": "KG",
+			"Description": "كرة اليد",
+			"Name": "كرة اليد",
+			"DateOfSale": "2017-03-26",
+			"ProductPicUrl": "https://olympics.com/tokyo-2020/olympic-games/resOG2020-/img/sports/HBL.png",
+			"Status": "Available"
+		},
+		{
+			"ProductId": "رجال",
+			"Category": "Laptops",
+			"MainCategory": "Computer Systems",
+			"TaxTarifCode": "1",
+			"SupplierName": "Very Best Screens",
+			"WeightMeasure": 4.2,
+			"WeightUnit": "KG",
+			"Description": "جودو",
+			"Name": "جودو",
+			"DateOfSale": "2017-03-26",
+			"ProductPicUrl": "https://olympics.com/tokyo-2020/olympic-games/resOG2020-/img/sports/JUD.png",
+			"Status": "Available"
+		}			
+	
+	],
+	"ProductCollectionStats": {
+		"Counts": {
+			"Total": 24,
+			"Weight": {
+				"Ok": 53,
+				"Heavy": 51,
+				"Overweight": 19
+			}
+		},
+		"Groups": {
+			"Category": {
+				"Accessories" : 34,
+				"Desktop Computers" : 7,
+				"Flat Screens" : 2,
+				"Keyboards" : 4,
+				"Laptops" : 11,
+				"Printers" : 9,
+				"Smartphones and Tablets" : 9,
+				"Mice" : 7,
+				"Computer System Accessories" : 8,
+				"Graphics Card" : 4,
+				"Scanners" : 4,
+				"Speakers" : 3,
+				"Software" : 8,
+				"Telekommunikation" : 3,
+				"Servers" : 3,
+				"Flat Screen TVs" : 3
+			},
+			"SupplierName": {
+				"Titanium": 21,
+				"Technocom": 22,
+				"Red Point Stores": 7,
+				"Very Best Screens": 14,
+				"Smartcards": 2,
+				"Alpha Printers": 5,
+				"Printer for All": 8,
+				"Oxynum": 8,
+				"Fasttech": 15,
+				"Ultrasonic United": 15,
+				"Speaker Experts": 3,
+				"Brainsoft": 3
+			}
+		},
+		"Filters": [
+			{
+				"type": "Category",
+				"values": [
+					{
+						"text": "أمل ادم",
+						"data": " - مشاركة في الفردي رجال تبدأ يوم الجمعة 23 الساعة السادسة صباحا  \n - مشاركة في المخنلط  تبدأ يوم السبت 24 الساعة اتنين ونصف فجرا",
+						"data2" : ""
+					},
+					{
+						"text": "يوسف طلبة",
+						"data": " - مشاركة في الفردي سيدات تبدأ يوم الجمعة 23 الساعة الثانية صباحا  \n - مشاركة في المخنلط  تبدأ يوم السبت 24 الساعة اتنين ونصف فجرا",						
+						"data2" : ""
+					}
+
+				]
+			},
+			{
+				"type": "SupplierName",
+				"values": [
+					{
+					"text": "مصر و اسبانيا",
+					"data": "دور المجموعات الجولة الاولي : يوم الخميس 22 الساعة 9 و نصف صباحا"
+				  },
+				  {
+					"text": "مصر و الارجنتين",
+					"data": "دور المجموعات الجولة الثانية : يوم الخميس 25 الساعة 9 و نصف صباحا"
+				  },
+				  {
+					"text": "مصر و استراليا",
+					"data": "دور المجموعات الجولة الثالثة : يوم الخميس 22 الساعة 1 ظهرا"
+				  }
+				]
+			},
+			{
+				"type": "Category",
+				"values": [
+					{
+						"text": "عمرو محمد",
+						"data": " - مشاركة في الفردي رجال كل الاجهزة تبدأ يوم الاربعاء 28 الساعة الثانية عشر و ربع ظهرا  \n - مشاركة في فردي الاجهزة  تبدأ يوم الاحد 1 اغسطس الساعة عاشرة صباحا",
+						"data2" : ""
+					},
+					{
+						"text": "ماندي محمد",
+						"data": " - مشاركة في الزوجي كل الاجهزة سيدات تبدأ يوم الخميس 29 الساعة الواحدة ظهرا  \n - مشاركة في زوجي الاجهزة سيدات  تبدأ يوم الاحد 1 اغسطس الساعة الحادية عشر صباحا",						
+						"data2" : ""
+					},
+					{
+						"text": "زينة شرف",
+						"data": " - مشاركة في الزوجي كل الاجهزة سيدات تبدأ يوم الخميس 29 الساعة الواحدة ظهرا  \n - مشاركة في زوجي الاجهزة سيدات  تبدأ يوم الاحد 1 اغسطس الساعة الحادية عشر صباحا",						
+						"data2" : ""
+					}
+
+				]
+			} ,
+			{
+				"type": "Category",
+				"values": [
+					{
+						"text": "زوجي",
+						"data": " - مشاركة هنا هيكل و ليلي محسن في الزوجي سيدات  تبدأ يوم الاثنين 2 اغسطس الساعة الثانية عشر و نصف ظهرا  \n ",
+						"data2" : ""
+					},
+					{
+						"text": "فرق",
+						"data": " - مشاركة فرق سيدات (8)  تبدأ يوم الجمعة 6 اغسطس الساعة الثانية عشر و نصف ظهرا  \n ",					
+						"data2" : ""
+					}
+
+				]
+			},
+			{
+				"type": "Category",
+				"values": [
+					{
+						"text": "محمد حمزة",
+						"data": " - مشاركة في رمي الجلة رجال تبدأ يوم الثلاثاء 3 اغسطس الساعة الثانية عشر و ربع ظهرا  \n ",
+						"data2" : ""
+					},
+					{
+						"text": "مصطفي حسن",
+						"data": " - مشاركة في رمي الجلة رجال تبدأ يوم الثلاثاء 3 اغسطس الساعة الثانية عشر و ربع ظهرا  \n ",						
+						"data2" : ""
+					},
+					{
+						"text": "مصطفي الجميل",
+						"data": " - مشاركة في رمي المطرقة رجال تبدأ يوم الاثنين 2 اغسطس الساعة الثانية فجرا  \n ",					
+						"data2" : ""
+					},
+					{
+						"text": "ايهاب عبد الرحمن",
+						"data": " - مشاركة في رمي الرمج رجال تبدأ يوم الاربعاء 4 اغسطس الساعة الثانية فجرا  \n ",						
+						"data2" : ""
+					},
+					{
+						"text": "بسنت همت",
+						"data": " - مشاركة في جري 100 متر سيدات تبدأ يوم الجمعة 30 الساعة الرابعة والنصف فجرا  \n - مشاركة في جري 200 متر سيدات تبدأ يوم الاثنين 2 اغسطس الساعة الثالثة والنصف فجرا ",						
+						"data2" : ""
+					}
+
+				]
+			},
+			{
+				"type": "Category",
+				"values": [
+					{
+						"text": "ضحي هاني",
+						"data": " - مشاركة في الفردي سيدات  تبدأ يوم الاحد 25  في مواجهة بطلة الصين الساعة الرابعة و ثلث فجرا  \n -  مشاركة في الزوجي سيدات  تبدأ يوم السبت 24  في مواجهة بطلات الصين الساعة الثالثة و ثلث فجرا + المواجهة الثانية في مواجهة بطلات الصين الساعة الرابعة و ثلث فجرا  \n مشاركة في المختلط تبدأ يوم الاحد 25 في مواجهة كوريا الجنوبية الساعة الحادية عشر صباحا",
+						"data2" : ""
+					},
+					{
+						"text": "هادية حسني",
+						"data": "-  مشاركة في الزوجي سيدات  تبدأ يوم السبت 24  في مواجهة بطلات الصين الساعة الثالثة و ثلث فجرا + المواجهة الثانية في مواجهة بطلات الصين الساعة الرابعة و ثلث فجرا ",					
+						"data2" : ""
+					},
+					{
+						"text": "ادهم الجمال",
+						"data": "مشاركة في المختلط تبدأ يوم الاحد 25 في مواجهة كوريا الجنوبية الساعة الحادية عشر صباحا ",					
+						"data2" : ""
+					}
+
+				]
+			},
+			{
+				"type": "Category",
+				"values": [
+					{
+						"text": "يسري حافظ",
+						"data": " - مشاركة في وزن 75-91 كيلو  تبدأ يوم الاحد 25  الساعة السابعة و الربع صباحا  \n ",
+						"data2" : ""
+					},
+					{
+						"text": "عبد الرحمن عرابي",
+						"data": " - مشاركة في وزن زائد 91 كيلو  تبدأ يوم السبت 24 الساعة الواحدة و النصف ظهرا  \n ",					
+						"data2" : ""
+					}
+
+				]
+			},
+			{
+				"type": "Category",
+				"values": [
+					{
+						"text": "مومن مهران",
+						"data": " - مشاركة في سباق 200 متر رجال فردي  تبدأ يوم الاربعاء 4 اغسطس الساعة الثانية و الربع فجرا  \n ",
+						"data2" : ""
+					},
+					{
+						"text": "سما احمد",
+						"data": " - مشاركة في سباق 500 متر سيدات فردي  تبدأ يوم الاربعاء 4 اغسطس الساعة الثالثة و الربع فجرا  \n ",					
+						"data2" : ""
+					}
+
+				]
+			},
+			{
+				"type": "Category",
+				"values": [
+					{
+						"text": "ابتسام احمد",
+						"data": " - مشاركة في ركوب الدراجات أومنيوم تبدأ يوم الاحد 8 اغسطس الساعة الثالثة فجرا  \n ",
+						"data2" : ""
+					}
+
+				]
+			},
+			{
+				"type": "Category",
+				"values": [
+					{
+						"text": "مها عبد السلام",
+						"data": " - مشاركة في غطس مسافة 10 متر سيدات  تبدأ يوم الاربعاء 4 اغسطس الساعة الثامنة صباحا  \n ",
+						"data2" : ""
+					},
+					{
+						"text": "مهاب اسحاق",
+						"data": " - مشاركة في غطس مسافة 3 متر من الوثب رجال  تبدأ يوم الاثنين 2 اغسطس الساعة الثامنة صباحا  \n - مشاركة في غطس مسافة 10 متر  رجال  تبدأ يوم الجمعة 6 اغسطس الساعة الثامنة صباحا",				
+						"data2" : ""
+					}
+
+				]
+			}
+
+		]
+	}
+}
