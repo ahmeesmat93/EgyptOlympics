@@ -58,7 +58,6 @@
 				"viewPath": "sap.ui.demo.fiori2.view",
 				"controlId": "flexibleColumnLayout",
 				"transition": "slide",
-				"bypassed": {},
 				"async": true
 			},
 			"routes": [{
