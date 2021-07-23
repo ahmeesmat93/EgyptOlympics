@@ -1,43 +1,34 @@
-<mvc:View
-	controllerName="sap.ui.demo.fiori2.controller.Master"
-	xmlns="sap.m"
-	xmlns:f="sap.f"
-	xmlns:mvc="sap.ui.core.mvc">
+<mvc:View controllerName="sap.ui.demo.fiori2.controller.Master" xmlns="sap.m" xmlns:f="sap.f" xmlns:mvc="sap.ui.core.mvc">
 	<f:DynamicPage id="dynamicPageId" toggleHeaderOnTitleClick="false">
 		<!-- DynamicPage Title -->
 		<f:title>
 			<f:DynamicPageTitle>
 				<f:heading>
-					<Title text="Tokyo 2020 Olympics Egypt Team - Sports ({products>/ProductCollectionStats/Counts/Total})"/>
+					<Title text="Tokyo 2020 Olympics Egypt Team"/>
 				</f:heading>
+				<f:actions>
+		<Label text="Dark Mode"></Label>
+		<Switch id="switch1" change="onSwitchChange"></Switch>
+				</f:actions>
 			</f:DynamicPageTitle>
 		</f:title>
-
 		<!-- DynamicPage Content -->
 		<f:content>
 			<VBox fitContainer="true">
 				<OverflowToolbar class="sapFDynamicPageAlignContent">
+					<Title text="Sports ({products>/ProductCollectionStats/Counts/Total})"/>
 					<ToolbarSpacer/>
 					<SearchField search=".onSearch" width="17.5rem"/>
 					<OverflowToolbarButton icon="sap-icon://add" text="Add" type="Transparent" press=".onAdd"/>
 					<OverflowToolbarButton icon="sap-icon://sort" text="Sort" type="Transparent" press=".onSort"/>
 				</OverflowToolbar>
-				<Table
-					id="productsTable"
-					inset="false"
-					items="{
-						path: 'products>/ProductCollection',
-						sorter: {
-							path: 'Name'
-						}
-					}"
-					class="sapFDynamicPageAlignContent"
-					width="auto">
+				<Table id="productsTable" inset="false" items="{ path: 'products>/ProductCollection', sorter: { path: 'Name' } }"
+					class="sapFDynamicPageAlignContent" width="auto">
 					<columns>
 						<Column width="12em">
 							<Text text="الرياضة"/>
 						</Column>
-						<Column	hAlign="End">
+						<Column hAlign="End">
 							<Text text=""/>
 						</Column>
 					</columns>
@@ -55,18 +46,13 @@
 								<!--		formatOptions: {showMeasure: false}-->
 								<!--	}"-->
 								<!--	unit="{products>CurrencyCode}"/>-->
-							<f:Avatar
-								src="{products>ProductPicUrl}"
-								displaySize="S"
-								displayShape="Square"
-								class="sapUiTinyMarginEnd"/>									
+								<f:Avatar src="{products>ProductPicUrl}" displaySize="S" displayShape="Square" class="sapUiTinyMarginEnd"/>
 							</cells>
 						</ColumnListItem>
 					</items>
 				</Table>
 			</VBox>
 		</f:content>
-
 		<!-- DynamicPage Footer -->
 		<f:footer>
 			<OverflowToolbar>
