@@ -26,7 +26,13 @@ sap.ui.define([
 
 			this.oProductsTable.getBinding("items").filter(oTableSearchState, "Application");
 		},
-
+				onSwitchChange: function (sValue) {
+			if (this.getView().byId("switch1").getState()) {
+				sap.ui.getCore().applyTheme("sap_fiori_3_dark");
+			} else {
+				sap.ui.getCore().applyTheme("sap_fiori_3");
+			}
+		},
 		onAdd: function () {
 			MessageBox.information("This functionality is not ready yet.", {title: "Aw, Snap!"});
 		},
