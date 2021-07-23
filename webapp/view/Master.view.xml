@@ -7,17 +7,21 @@
 					<Title text="Tokyo 2020 Olympics Egypt Team"/>
 				</f:heading>
 				<f:actions>
-		<Label text="Dark Mode"></Label>
-		<Switch id="switch1" change="onSwitchChange"></Switch>
+					<Label text="Dark Mode"></Label>
+					<Switch id="switch1" change="onSwitchChange"></Switch>
 				</f:actions>
+				<f:expandedContent>
+					<Label text="Sports ({products>/ProductCollectionStats/Counts/Total})"/>
+				</f:expandedContent>
 			</f:DynamicPageTitle>
 		</f:title>
 		<!-- DynamicPage Content -->
 		<f:content>
 			<VBox fitContainer="true">
 				<OverflowToolbar class="sapFDynamicPageAlignContent">
-					<Title text="Sports ({products>/ProductCollectionStats/Counts/Total})"/>
+					<!--<Title text="Sports ({products>/ProductCollectionStats/Counts/Total})"/>-->
 					<ToolbarSpacer/>
+					<!--<Title text="Sports ({products>/ProductCollectionStats/Counts/Total})"/>-->
 					<SearchField search=".onSearch" width="17.5rem"/>
 					<OverflowToolbarButton icon="sap-icon://add" text="Add" type="Transparent" press=".onAdd"/>
 					<OverflowToolbarButton icon="sap-icon://sort" text="Sort" type="Transparent" press=".onSort"/>
